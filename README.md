@@ -22,7 +22,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ViktorPetrovSoftuni/Music-Library-Exercise">
-    <img src="images/landing.png" alt="Logo" width="80" height="80">
+    <img src="images/landing.png" alt="Logo" width="150" height="150">
   </a>
 
 <h3 align="center">Music Library Exercise</h3>
@@ -121,14 +121,17 @@ Node.js and npm are needed to start this project
 
 See the [open issues](https://github.com/ViktorPetrovSoftuni/Music-Library-Exercise/issues) for a full list of proposed features (and known issues).
 
+<!-- TESTS -->
+## Unit Testing
 
-
+To run unit tests, run the command ```npm test``` in the directory of the website.
+<br>
+<img src="images/tests.jpg" alt="unit tests" width="400" height="300">
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
 This project is considered inactive, no contributions are needed. 
-
 
 
 <!-- LICENSE -->
