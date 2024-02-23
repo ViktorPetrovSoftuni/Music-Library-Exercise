@@ -75,12 +75,6 @@ This is a simple online music library with an API and documentation for it.
 ### Built With
 
 * [![JS][JavaScript.com]][JS]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
 
 
 
