@@ -112,7 +112,7 @@
         }
       }
     },
-    "/data/albums": {
+      "/data/albums": {
       "get": {
         "tags": [
           "Music Library Albums"
@@ -171,19 +171,19 @@
             "schema": {
               "type": "object",
               "properties": {
-                "...": {
+                "singer": {
                   "type": "string"
                 },
-                "...": {
+                "album": {
                   "type": "string"
                 },
-                "...": {
+                "imageUrl": {
                   "type": "string"
                 },
-                "...": {
+                "label": {
                   "type": "string"
                 },
-                "...": {
+                "sales": {
                   "type": "string"
                 }
               }
@@ -284,14 +284,14 @@
         "tags": [
           "Music Library Albums"
         ],
-        "description": "...", 
+        "description": "Get an almbum by ID", 
         "parameters": [
           {
-            "name": "{name}",
+            "name": "ID",
             "in": "path",
-            "description": "(description)",
+            "description": "ID of the album to get",
             "required": true,
-            "type": "(type)"
+            "type": "string"
           }
         ],
         "responses": {
