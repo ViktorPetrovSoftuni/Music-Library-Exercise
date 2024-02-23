@@ -156,7 +156,7 @@
         "tags": [
           "Music Library Albums"
         ],
-        "description": "...",
+        "description": "Create a new album",
         "security": [
           {
             "token": []
@@ -166,7 +166,7 @@
           {
             "name": "album",
             "in": "body",
-            "description": "...",
+            "description": "Album object that needs to be added",
             "required": true,
             "schema": {
               "type": "object",
